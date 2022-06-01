@@ -3,6 +3,7 @@
 Quadratic calculator made for Desktop with C++
 
 **Building Instructions**
+
 *Building dependancy*
 `wxWidgets`
 
